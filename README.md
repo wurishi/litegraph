@@ -1,1 +1,1 @@
-# litegraph
+[link](./note.md)
